@@ -7,10 +7,10 @@ export default function Footer() {
 
   // Social media links with animations
   const socialLinks = [
-    { icon: "fab fa-instagram", url: "#", label: "Instagram" },
+    { icon: "fab fa-instagram", url: "https://www.instagram.com/jidnesh__007?igsh=cnNzcXNkNnM3emhn", label: "Instagram" },
     { icon: "fab fa-linkedin-in", url: "https://www.linkedin.com/in/jidnesh-patil-229a822bb/", label: "LinkedIn" },
     { icon: "fab fa-github", url: "https://github.com/jidnesh007", label: "GitHub" },
-    { icon: "fas fa-whatsapp", url: "#", label: "Whatsapp" },
+    { icon: "fa-brands fa-whatsapp" , url: "https://wa.me/7208741007", label: "Whatsapp" },
   ];
 
   return (
