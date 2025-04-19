@@ -1,0 +1,11 @@
+iframe {
+    pointer-events: none; /* Prevents interaction */
+  }
+  
+  /* Hide Spline watermark */
+iframe + div {
+    display: none !important;
+    visibility: hidden;
+  }
+  
+  
