@@ -309,7 +309,7 @@ export default function Hero() {
           >
             {/* Resume Button */}
             <motion.a
-              href="https://drive.google.com/file/d/1_6Xs7CvXGJgN_guVmWYX-BO1jEpzXIzn/view?usp=sharing"
+              href="https://drive.google.com/file/d/1ZrbVER_xJF_cdL-dcT5s3S-8nazOQon8/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="px-6 sm:px-8 py-3 sm:py-4 bg-transparent rounded-lg font-semibold border border-purple-500/50 flex items-center justify-center gap-2 text-sm sm:text-base"
